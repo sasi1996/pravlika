@@ -1,2 +1,0 @@
-# pravlika
-sample file
